@@ -1,3 +1,5 @@
+window.snake.customMenuStuff();
+
 window.snake.more_menu = function(e) {
   e = e || 25;
   
